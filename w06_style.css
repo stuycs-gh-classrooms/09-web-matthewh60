@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+  font-weight: bolder;
+  text-align: center;
+  border: dotted;
+}
+
+p {
+  color: green;
+  font_weight: bold;
+}
+
+a {
+  font_size: 50px;
+}
+
+img {
+  width: 75%px;
+  height: 200px;
+}
+
+ol {
+  color: blue;
+  font_size: 25px;
+  font-family: "Ariel";
+  border: dashed;
+}
+
+body {
+  background-color: beige;
+}
