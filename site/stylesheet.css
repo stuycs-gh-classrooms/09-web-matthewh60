@@ -87,5 +87,5 @@ a:active {
 
 @font-face {
   font-family: "IBMPlexSans";
-  src: url(IBM_Plex_Sans.woff2) format('woff2');
+  src: url(IBM_Plex_Sans.ttf) format('ttf');
 }
