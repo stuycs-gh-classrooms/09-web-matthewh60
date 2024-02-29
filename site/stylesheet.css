@@ -45,3 +45,9 @@ body {
   display: block;
 }
 
+.mahjongsolitaire {
+  width: 50%;
+  float: right;
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
