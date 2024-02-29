@@ -16,6 +16,13 @@ body {
 .tiles {
   width: 25%;
   float: right;
-  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.sets {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
   padding-top: 30px;
 }
