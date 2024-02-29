@@ -1,7 +1,8 @@
 h1 {
   text-align: center;
-  font-weight: bold;
+  font-weight: bolder;
   font_size: 56px;
+  text-decoration: underline;
 }
 
 body {
@@ -33,4 +34,7 @@ body {
   margin: auto
 }
 
-.
+.tablesetup {
+  width: 100%;
+}
+
