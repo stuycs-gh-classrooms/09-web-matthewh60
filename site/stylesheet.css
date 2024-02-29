@@ -27,6 +27,10 @@ body {
   padding-top: 30px;
 }
 
-p {
-  width: 65%
+.winninghand {
+  display: block;
+  width: 80%;
+  margin: auto
 }
+
+.
