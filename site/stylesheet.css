@@ -18,7 +18,18 @@ body {
   border-style: solid;
   padding: 5px;
   border-radius: 5px;
+  background-color: #b2d3a8
 }
+
+.bars {
+  display: inline-block;
+  text-align: center;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #ede5a6
+}
+  
 
 nav {
   text-align: center;
@@ -59,7 +70,16 @@ nav {
   margin-bottom: 30px;
   padding-left: 30px;
 }
-body {
-  border-block-color: green;
-  border-radius: 25px;
+
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none;
+} 
+a:active { 
+  text-decoration: none; 
 }
