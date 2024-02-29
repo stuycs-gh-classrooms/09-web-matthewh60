@@ -15,6 +15,9 @@ body {
 .bar {
   display: inline-block;
   text-align: center;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 nav {
