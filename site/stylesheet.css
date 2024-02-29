@@ -84,3 +84,8 @@ a:hover {
 a:active { 
   text-decoration: none; 
 }
+
+@font-face {
+  font-family: "IBMPlexSans";
+  src: url(IBM_Plex_Sans.woff2) format('woff2');
+}
