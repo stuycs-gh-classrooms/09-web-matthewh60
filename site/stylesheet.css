@@ -8,12 +8,13 @@ h2 {
   text-decoration: underline;
 }
 body {
-  margin-left: 30px;
-  margin-right: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-.bars {
+.bar {
   display: inline-block;
+  text-align: center;
 }
 
 .tiles {
